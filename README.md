@@ -8,8 +8,11 @@ Decryption of passwords from chromium browsers are  only supported in windows sy
  
  
  Usage 
- ***********
+ *********
  
- python3 thief.py
+ $ create a new telegram bot and a new group 
+ $ add the bot to the group
+ $ update the bot token and group id in the file "thief.py"
+ $ run python3 thief.py
  
  
